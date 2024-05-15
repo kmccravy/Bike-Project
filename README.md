@@ -14,9 +14,13 @@ Objective: To understand how much of the city is connected through the bike netw
 #### Datasets
 
 [Amsterdam bike network dataset](https://maps.amsterdam.nl/fietsnetten/)
+
 [Amsterdam city limits polygon](https://maps.amsterdam.nl/hoegroot/)
+
 [Seattle bike network dataset](https://www.arcgis.com/apps/mapviewer/index.html?layers=bf36bd11b499489d8cc1d491b72eb712)
+
 [Seattle city limits polygon](https://data-seattlecitygis.opendata.arcgis.com/datasets/4fbe28084541458e9b393b112ff76e86_0/explore)
+
 
 #### Python Packages
 
