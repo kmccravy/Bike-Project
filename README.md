@@ -29,8 +29,8 @@ The current Python packages I know will need are the ones needed to for assignme
 #### Planned Approach
 
 To compare the bike network of Amsterdam and Seattle, I will do an analysis similar to Assignment 3. I will produce an isochrone map of each bike network and analyze how much of the city can be accessed by bike and how long it takes to access different parts of the city.
-To better understand how much area of the city is connected by the bike network, I will create a 0.25-mile buffer (subject to change). I will find the percentage of the city that is contained within the buffer to analyze my first question. 
-To analyze my second question, I will first convert my data into a graph dataset with edges and nodes. Using the coordinates of the city center given by Google Maps, I will create an isochrone map to see how long it takes to access the city from the city center. My approach will be the same approach used in Assignment 3 and the network data analysis example on the course website. I will then use the polygon created for the map to calculate the percentage of the city within each time polygon.
+To better understand how much area of the city is connected by the bike network, I will create a 400 meter buffer (about .25 miles). I will find the percentage of the city that is contained within the buffer to analyze my first question. 
+To analyze my second question, I will first convert my data into a graph dataset with edges and nodes. Using the coordinates of the city center given by Google Maps, I will create  isochrone polygons and a map to see how long it takes to access the city from the city center. My proccess will be the same to the one in the [network data analysis example](https://cleo-lab.github.io/gds-applications-site/lectures/week3/lecture-3.html#) on the GEOG 490 course website. I will then use the polygons created for each time to calculate the percentage of the city that is accessibily from the city center within that time.
 
 #### Expected Outcomes
 
